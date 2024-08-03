@@ -1,0 +1,4 @@
+//Instrucciones para crear 
+flutter create ""holaMundo"" 
+flutter pub get
+flutter run -d windows
